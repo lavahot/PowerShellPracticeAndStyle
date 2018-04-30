@@ -133,7 +133,7 @@ The preferred way to avoid long lines is to use splatting (see [About Splatting]
 ```
 Write-Host ("This is an incredibly important, and extremely long message. " +
             "We cannot afford to leave any part of it out, nor do we want line-breaks in the output. " +
-            "Using string concatenation let's us use short lines here, and still get a long line in the output")
+            "Using string concatenation lets us use short lines here, and still get a long line in the output")
 ```
 
 #### Blank lines
